@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coling.Shared", "Coling.Sha
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Multiplataforma", "Multiplataforma", "{75AB18C9-2F19-4762-A79E-9CCABA49DC13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coling.Vista", "Coling.Vista\Coling.Vista.csproj", "{C7DDC480-6A60-4B9F-AB95-B8BD8221B362}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coling.Vista", "Coling.Vista\Coling.Vista.csproj", "{C7DDC480-6A60-4B9F-AB95-B8BD8221B362}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
